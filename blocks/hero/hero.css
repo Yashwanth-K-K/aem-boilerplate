@@ -35,3 +35,8 @@
     padding: 40px 32px;
   }
 }
+
+.hero-wrapper .hero.block #congrats-you-are-ready-to-go {
+  color: magenta;
+  background-color: cyan;
+}
